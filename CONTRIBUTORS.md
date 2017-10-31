@@ -16681,3 +16681,8 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
+#### Name: [Abhishek Singh](https://github.com/ZER-0-NE)
+- Place: Durgapur, India.
+- Bio: Student and Tech geek at NIT Durgapur.
+- Github: [Abhishek Singh](https://github.com/ZER-0-NE)
+
